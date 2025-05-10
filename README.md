@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there 👋 I'm Piyush Bhoi
 
-<!--
-**Piyushbhoi16/Piyushbhoi16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year B.Tech IT Student | 🚀 Aspiring Cloud & DevOps Engineer  
+🔧 Skills: AWS • Terraform • Docker • Linux • GitHub Actions • Ansible • Monitoring (Grafana, CloudWatch)
 
-Here are some ideas to get you started:
+## 🔨 Projects I'm Working On
+- **High Availability WordPress Setup** – HAProxy Load Balancer + MariaDB Replication
+- **AWS Infrastructure Automation** – Terraform scripts for EC2, VPC, RDS
+- **Monitoring Stack** – Grafana Dashboards + CloudWatch Alerts
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Certifications
+- RHCSA (Red Hat Certified System Administrator)
+- NPTEL – Cloud Computing & Distributed Systems
+
+## 📫 Let's Connect!
+- 💼 [LinkedIn](https://www.linkedin.com/in/piyush-bhoi-33134a248/)
+- 📬 piyushbhoi666@gmail.com
