@@ -118,27 +118,19 @@ I enjoy building practical and production-oriented infrastructure projects focus
 * Site Reliability Engineering (SRE)
 
 ---
+# 📊 GitHub Overview
 
-# 📊 GitHub Summary
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Piyushbhoi16&theme=github_dark" width="100%"/>
+</p>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Piyushbhoi16\&theme=github_dark)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Piyushbhoi16&theme=github_dark" width="32%"/>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Piyushbhoi16\&theme=github_dark)
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Piyushbhoi16&theme=github_dark" width="32%"/>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Piyushbhoi16\&theme=github_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Piyushbhoi16\&theme=github_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Piyushbhoi16\&theme=github_dark)
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img width="70%" src="https://streak-stats.demolab.com?user=Piyushbhoi16&theme=radical&hide_border=true&background=0D1117"/>
-
-</div>
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Piyushbhoi16&theme=github_dark" width="32%"/>
+</p>
 
 # 🧠 DevOps & Cloud Focus
 
