@@ -1,122 +1,195 @@
-# Hi there 👋, I'm Piyush Bhoi
+<div align="center">
 
-### Cloud & DevOps Engineer | Linux Enthusiast | SRE Learner
+# 👋 Hey, I'm Piyush Bhoi
 
-I’m a recent B.Tech Information Technology graduate passionate about Cloud Infrastructure, DevOps, Site Reliability Engineering (SRE), and Infrastructure Automation.
+### 🚀 DevOps Engineer | Cloud Infrastructure Enthusiast | SRE Learner
 
-I enjoy building production-oriented systems focused on:
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Linux+%7C+Cloud+%7C+DevOps+%7C+SRE;Building+Production-Oriented+Projects;Monitoring+%7C+Automation+%7C+Reliability;Docker+%7C+Kubernetes+%7C+AWS" alt="Typing SVG" />
 
-* Reliability
-* Monitoring & Observability
-* Automation
-* Containerization
-* Cloud Infrastructure
-* Linux Systems
+</div>
 
 ---
 
-## 🚀 Current Focus
+# 💡 About Me
 
-* Kubernetes & Container Orchestration
-* CI/CD Pipelines with Jenkins & GitHub Actions
-* Infrastructure Automation using Terraform
-* AWS Cloud Infrastructure
-* Monitoring & Observability
-* Linux & Networking
+🎓 Recent B.Tech Information Technology Graduate passionate about:
 
----
+* ☁️ Cloud Infrastructure
+* ⚙️ DevOps Engineering
+* 📈 Monitoring & Observability
+* 🐧 Linux Systems
+* 🔥 Site Reliability Engineering (SRE)
+* 🚀 Infrastructure Automation
 
-## 🛠 Tech Stack
-
-### Cloud & DevOps
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge\&logo=prometheus\&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge\&logo=grafana\&logoColor=white)
-
-### Operating Systems & Networking
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge\&logo=ubuntu\&logoColor=white)
-![RHEL](https://img.shields.io/badge/RHEL-EE0000?style=for-the-badge\&logo=redhat\&logoColor=white)
-
-### Programming & Databases
-
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge\&logo=go\&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge\&logo=gnubash\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-D9281A?style=for-the-badge\&logo=redis\&logoColor=white)
+I enjoy building practical and production-oriented infrastructure projects focused on reliability, monitoring, automation, and scalability.
 
 ---
 
-## 📌 Featured Projects
+# 🛠 Tech Stack
 
-### 🔹 Incident Management System
+## ☁️ Cloud & DevOps
 
-Production-inspired Incident Management System built using:
+<p align="left">
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,git,linux,bash" />
+</p>
 
-* Go
-* Redis
-* PostgreSQL
-* MongoDB
-* Docker Compose
+---
 
-Features:
+## 📊 Monitoring & Observability
+
+<p align="left">
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+</p>
+
+---
+
+## 💻 Programming & Databases
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=go,python,postgres,mongodb,redis" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🔹 Incident Management System (IMS)
+
+> Production-inspired Incident Management System built using Go, Redis, PostgreSQL, MongoDB, and Docker Compose.
+
+### 🔥 Features
 
 * Async event processing
 * RCA workflows
 * MTTR tracking
-* Monitoring-oriented architecture
-* Multi-service design
+* Multi-service architecture
+* Reliability-focused workflows
+* Monitoring-oriented design
+
+### 🛠 Stack
+
+`Go` `Redis` `PostgreSQL` `MongoDB` `Docker Compose`
 
 ---
 
-### 🔹 Monitoring Stack using Prometheus & Grafana
+## 🔹 Monitoring Stack using Prometheus & Grafana
 
-Implemented infrastructure monitoring with:
+> Infrastructure monitoring and observability setup using Prometheus and Grafana.
 
-* Prometheus metrics collection
-* Grafana dashboards
-* System observability concepts
-* Monitoring visualization
+### 🔥 Features
 
----
+* Metrics collection
+* Dashboard visualization
+* Monitoring concepts
+* Infrastructure observability
 
-### 🔹 High Availability WordPress Deployment
+### 🛠 Stack
 
-Built a High Availability infrastructure setup using:
-
-* HAProxy
-* MariaDB
-* Linux Servers
-* Load Balancing concepts
+`Prometheus` `Grafana` `Linux`
 
 ---
 
-## 🌱 Currently Learning
+## 🔹 High Availability WordPress Deployment
+
+> High Availability WordPress setup using HAProxy and MariaDB on Linux servers.
+
+### 🔥 Features
+
+* Load balancing
+* HA architecture
+* Linux administration
+* Database replication concepts
+
+### 🛠 Stack
+
+`HAProxy` `MariaDB` `Linux`
+
+---
+
+# 🌱 Currently Learning
 
 * Terraform
-* Jenkins
+* Jenkins CI/CD
 * GitHub Actions
 * Kubernetes Advanced Concepts
 * AWS Infrastructure Automation
-* SRE & Platform Engineering Concepts
+* Platform Engineering Concepts
+* Site Reliability Engineering (SRE)
 
 ---
 
-## 📈 GitHub Stats
+# 📊 GitHub Summary
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Piyushbhoi16\&show_icons=true\&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Piyushbhoi16\&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Piyushbhoi16\&layout=compact\&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Piyushbhoi16\&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Piyushbhoi16\&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Piyushbhoi16\&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Piyushbhoi16\&theme=github_dark)
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com?user=Piyushbhoi16&theme=radical&hide_border=true&background=0D1117"/>
+
+</div>
+
+
+# 🧠 DevOps & Cloud Focus
+
+```yaml
+Cloud:
+  - AWS
+  - Linux Infrastructure
+
+DevOps:
+  - Docker
+  - Kubernetes
+  - CI/CD
+  - Monitoring
+
+Observability:
+  - Prometheus
+  - Grafana
+
+Databases:
+  - PostgreSQL
+  - MongoDB
+  - Redis
+
+Programming:
+  - Go
+  - Bash
+  - Python
+```
 
 ---
 
-## 🤝 Connect With Me
+# 📫 Connect With Me
 
-* LinkedIn: https://www.linkedin.com/in/piyush-bhoi-33134a248/
-* GitHub: https://github.com/Piyushbhoi16
-* Email: [piyushbhoi666@gmail.com](mailto:piyushbhoi666@gmail.com)
+<p align="left">
+<a href="https://www.linkedin.com/in/piyush-bhoi-33134a248/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:piyushbhoi666@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Piyushbhoi16">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+---
+
+<div align="center">
+
+### ⚡ Building Reliable Infrastructure, One Deployment at a Time ⚡
+
+</div>
